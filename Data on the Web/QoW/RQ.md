@@ -206,7 +206,7 @@ from Organization O,(
 		from Country C, Religion R
 		where C.Code = R.Country and R.Name = "Buddhist") BC
 	where BC.Code = M.Country) BCM
-where O.Abbreviation = BCM.Organization and Established > "1999-12-01"
+where O.Abbreviation = BCM.Organization and Established > "1994-12-01"
 ;
 ```
 
