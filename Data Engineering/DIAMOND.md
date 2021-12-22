@@ -1,3 +1,7 @@
+> Individual work:
+>
+> https://online.manchester.ac.uk/webapps/discussionboard/do/message?action=list_messages&course_id=_67618_1&nav=discussion_board&conf_id=_396126_1&forum_id=_556822_1&message_id=_1824188_1
+
 主题：系统DIAMOND，识别驾驶违法行为后的驾驶员的身份
 
 基本逻辑：使用测速摄像头，捕捉超速车辆的驾驶员面部照片，交叉比对DVLA数据库（Driver and Vehicle licensing Agency），如果驾驶员数据库中没有信息，则到Idendity and Passport Service搜寻，如果那里也没有，则到Home Office 的 Foreign Nationals数据库查找外国人的照片信息。若还是没找到，则向该测速摄像头所在的区域的地方当局发送报告。
@@ -146,4 +150,19 @@ Cameras: speed cameras that supports data transfering through networks.
 
  
 
- 
+##  Requirements
+
+1. it's a plan, you don't need to implement it
+2. make a cookbook, consider some of the details (e.g. encryption, decryption)
+3. Normal functional requirements, normal challenges(e.g.the principle of planned obsolescence, if a company's products last forever, they wouldn't make much money)
+4. 6 principles of the process, 6 elements of governance
+
+
+
+who's responsible for what, what level, (e.g. agencies, manipulations)
+
+
+
+strategy, do we use the cloud, governance decisions ( what is allowed, what will be used)
+
+used what standard, e.g. ISO/IEC 25010
