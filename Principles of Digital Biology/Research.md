@@ -96,9 +96,9 @@ axiom 公理，格言
 
 ### Task List
 
-- [ ] watch the lecture videos 
+- [x] watch the lecture videos 
 
-- [ ] read the examples (two example individual work)
+- [x] read the examples (two example individual work)
 - [ ] schedule the discussion this week
 - [ ] arrange the assignments go to each individual
 
@@ -110,9 +110,11 @@ axiom 公理，格言
 
 2. What is ENA entry?
 
-
+European Nucleotide Archive Entry
 
 3. What is gene ontology?
+
+A semi-structured data kind of like RDF.
 
 ># 基因本体 
 >
@@ -164,6 +166,8 @@ sequence, structure, secondary data
 
 The annotation matters at least as much as the sequence.
 
+A way we manage knowledge efficiently.
+
 Questions:
 
 1. Whose annotation
@@ -206,7 +210,7 @@ The basic tool
 
 homology 相同，异体同形 （homologous)
 
-be homologous to (同源的)
+be homologous[/hɒ'mɒləgəs/](cmd://Speak/_uk_/homologous) to (同源的)
 
 1. Molecules with a common ancestor can share a function (homology)
 2. We can therefore predict function if we could identify homologues
@@ -243,9 +247,39 @@ enzyme 酶
 
 ![image-20220217060733575](https://cdn.jsdelivr.net/gh/AppleisTasty/PicGarage/tmp/202202170607698.png)
 
+![image-20220217060820914](https://cdn.jsdelivr.net/gh/AppleisTasty/PicGarage/tmp/202202170608088.png)
 
+![image-20220217060914219](https://cdn.jsdelivr.net/gh/AppleisTasty/PicGarage/tmp/202202170609350.png)
 
+These made requests for the processing of data: both from the input and the output, it should make sense to the clinical staff.
 
+> How is this helping with understanding of the genes?
+
+## Notes from week2 offline lecture
+
+Biology is a knowledge based discipline. (founded on an accumulation of facts or information. Making names&definitions. Sometimes making guesses. )
+
+Favourite protein: interferon gamma. 
+
+Taxonomy 分类学，分类系统
+
+pathology 病理学
+
+curator 监护人，管理者
+
+curated 仔细挑选并展览的
+
+Homologous proteins share a common ancestor.
+
+Scoring the sequence = how likely the proteins share a common ancestor.
+
+SNP: single nucleotide polymorphisms. (the most common type of genetic variation among people)
+
+This Week: Basic information of bioinformatics.
+
+Next Week: from clinical view, if we do have changes, how the change would cause the impact, how we process this kind of situation. To find out if the variation is likely to become a disease. Which changes are fine, which changes are disease causing.
+
+Does data sharing matters? Problems with the huge amount of data.
 
 
 
